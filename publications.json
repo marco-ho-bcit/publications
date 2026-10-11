@@ -45,8 +45,8 @@
    "authors": "M. Ho, C. Orr, and J. Ryoo",
    "html": "<strong>M. Ho</strong>, C. Orr, and J. Ryoo, “When an AI-Only Challenge Concentrates in One or Two Students: Lessons from Embedding a Generative-AI Feature Sprint in a Team Project Course,” to be presented at the 58th ACM Technical Symposium on Computer Science Education (SIGCSE TS), Sacramento, California, United States, Feb. 17–20, 2027.",
    "search": "m. ho, c. orr, and j. ryoo when an ai-only challenge concentrates in one or two students: lessons from embedding a generative-ai feature sprint in a team project course to be presented at the 58th acm technical symposium on computer science education (sigcse ts) sacramento, california, united states feb. 17–20, 2027",
-   "number": 33,
-   "label": "C33"
+   "number": 32,
+   "label": "C32"
   },
   {
    "key": "IICE2027",
@@ -58,8 +58,8 @@
    "authors": "D. Chang, M. P.-C. Lin, D. Yang, J.-Y. Huang, M. Ho, and J. Ryoo",
    "html": "D. Chang, M. P.-C. Lin, D. Yang, J.-Y. Huang, <strong>M. Ho</strong>, and J. Ryoo, “Designing A Knowledge-Graph-Based Learning Environment for Self Regulated Learning in Computer Science Education,” to be presented at the 12th IAFOR International Conference on Education in Hawaii (IICE), Honolulu, Hawaii, United States, Jan. 8–11, 2027.",
    "search": "d. chang, m. p.-c. lin, d. yang, j.-y. huang, m. ho, and j. ryoo designing a knowledge-graph-based learning environment for self regulated learning in computer science education to be presented at the 12th iafor international conference on education in hawaii (iice) honolulu, hawaii, united states jan. 8–11, 2027",
-   "number": 32,
-   "label": "C32"
+   "number": 31,
+   "label": "C31"
   },
   {
    "key": "TALE2026-415",
@@ -71,8 +71,8 @@
    "authors": "M. P.-C. Lin, D. H. Chang, V. Lin, M. Chang, M. Ho, and J. Ryoo",
    "html": "M. P.-C. Lin, D. H. Chang, V. Lin, M. Chang, <strong>M. Ho</strong>, and J. Ryoo, “Teachers’ Perceptions of Conditional Equity in Artificial Intelligence Use,” to be presented at 2026 IEEE International Conference on Engineering, Technology and Education (TALE), Pattaya, Thailand, Dec. 2–4, 2026.",
    "search": "m. p.-c. lin, d. h. chang, v. lin, m. chang, m. ho, and j. ryoo teachers' perceptions of conditional equity in artificial intelligence use to be presented at 2026 ieee international conference on engineering, technology and education (tale) pattaya, thailand dec. 2–4, 2026",
-   "number": 31,
-   "label": "C31"
+   "number": 30,
+   "label": "C30"
   },
   {
    "key": "TALE2026-57",
@@ -84,8 +84,8 @@
    "authors": "J.-Y. Huang, V. Lin, Y. Park, Y. Miao, Y.-h. Hsiao, M. P.-C. Lin, D. Chang, S. M. Park, M. Ho, M. S. Hsiao, and J. Ryoo",
    "html": "J.-Y. Huang, V. Lin, Y. Park, Y. Miao, Y.-h. Hsiao, M. P.-C. Lin, D. Chang, S. M. Park, <strong>M. Ho</strong>, M. S. Hsiao, and J. Ryoo, “The Brand War: A Gamified AI-Feedback System for Time-Limited EFL Writing,” to be presented at 2026 IEEE International Conference on Engineering, Technology and Education (TALE), Pattaya, Thailand, Dec. 2–4, 2026.",
    "search": "j.-y. huang, v. lin, y. park, y. miao, y.-h. hsiao, m. p.-c. lin, d. chang, s. m. park, m. ho, m. s. hsiao, and j. ryoo the brand war: a gamified ai-feedback system for time-limited efl writing to be presented at 2026 ieee international conference on engineering, technology and education (tale) pattaya, thailand dec. 2–4, 2026",
-   "number": 30,
-   "label": "C30"
+   "number": 29,
+   "label": "C29"
   },
   {
    "key": "ACE2026",
@@ -97,19 +97,6 @@
    "authors": "M. P.-C. Lin, D. Chang, J.-Y. Huang, M. Ho, and J. Ryoo",
    "html": "M. P.-C. Lin, D. Chang, J.-Y. Huang, <strong>M. Ho</strong>, and J. Ryoo, “Verification Literacy in the Age of Generative AI: A CHAT-ACTS-Informed Framework for Higher Education,” to be presented at the 18th Asian Conference on Education (ACE), Tokyo, Japan, Nov. 14–18, 2026.",
    "search": "m. p.-c. lin, d. chang, j.-y. huang, m. ho, and j. ryoo verification literacy in the age of generative ai: a chat-acts-informed framework for higher education to be presented at the 18th asian conference on education (ace) tokyo, japan nov. 14–18, 2026",
-   "number": 29,
-   "label": "C29"
-  },
-  {
-   "key": "SBAC-PAD2026",
-   "type": "conference",
-   "status": "accepted",
-   "area": "arch",
-   "year": 2026,
-   "title": "ARTA: Adaptive Reinforcement-Learning-Based Throttling Agent for RowHammer Vulnerabilities",
-   "authors": "M. Ho, E. Shojaei, P. Stockton, M. S. Hsiao, E. John, and J. Ryoo",
-   "html": "<strong>M. Ho</strong>, E. Shojaei, P. Stockton, M. S. Hsiao, E. John, and J. Ryoo, “ARTA: Adaptive Reinforcement-Learning-Based Throttling Agent for RowHammer Vulnerabilities,” to be presented at the 38th IEEE/SBC International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), Madrid, Spain, Oct. 14–16, 2026.",
-   "search": "m. ho, e. shojaei, p. stockton, m. s. hsiao, e. john, and j. ryoo arta: adaptive reinforcement-learning-based throttling agent for rowhammer vulnerabilities to be presented at the 38th ieee/sbc international symposium on computer architecture and high performance computing (sbac-pad) madrid, spain oct. 14–16, 2026",
    "number": 28,
    "label": "C28"
   },
@@ -679,9 +666,9 @@
    "area": "ic",
    "year": 2010,
    "title": "RF Module Design of Passive UHF RFID Tag Implemented in CMOS 90-nm Technology",
-   "authors": "K. N. Leung, C. S. Choy, K.-P. Pun, L. L. K. Leung, J. Guo, Y. Sum Ng, C. F. Chan, W. Shi, Y. Hong, M. Ho, K.-L. Mak, and Y. Ai",
-   "html": "K. N. Leung, C. S. Choy, K.-P. Pun, L. L. K. Leung, J. Guo, Y. Sum Ng, C. F. Chan, W. Shi, Y. Hong, <strong>M. Ho</strong>, K.-L. Mak, and Y. Ai, <a href=\"https://doi.org/10.1166/jolpe.2010.1064\" target=\"_blank\" rel=\"noopener\">“RF Module Design of Passive UHF RFID Tag Implemented in CMOS 90-nm Technology,”</a> <i>Journal of Low Power Electronics</i>, vol. 6, no. 1, pp. 141–149, 2010.",
-   "search": "k. n. leung, c. s. choy, k.-p. pun, l. l. k. leung, j. guo, y. sum ng, c. f. chan, w. shi, y. hong, m. ho, k.-l. mak, and y. ai rf module design of passive uhf rfid tag implemented in cmos 90-nm technology journal of low power electronics vol. 6 no. 1 pp. 141–149 2010",
+   "authors": "K. N. Leung, C. S. Choy, K.-P. Pun, L. L. K. Leung, J. Guo, Y. S. Ng, C. F. Chan, W. Shi, Y. Hong, M. Ho, K.-L. Mak, and Y. Ai",
+   "html": "K. N. Leung, C. S. Choy, K.-P. Pun, L. L. K. Leung, J. Guo, Y. S. Ng, C. F. Chan, W. Shi, Y. Hong, <strong>M. Ho</strong>, K.-L. Mak, and Y. Ai, <a href=\"https://doi.org/10.1166/jolpe.2010.1064\" target=\"_blank\" rel=\"noopener\">“RF Module Design of Passive UHF RFID Tag Implemented in CMOS 90-nm Technology,”</a> <i>Journal of Low Power Electronics</i>, vol. 6, no. 1, pp. 141–149, 2010.",
+   "search": "k. n. leung, c. s. choy, k.-p. pun, l. l. k. leung, j. guo, y. s. ng, c. f. chan, w. shi, y. hong, m. ho, k.-l. mak, and y. ai rf module design of passive uhf rfid tag implemented in cmos 90-nm technology journal of low power electronics vol. 6 no. 1 pp. 141–149 2010",
    "number": 1,
    "label": "J1"
   },
