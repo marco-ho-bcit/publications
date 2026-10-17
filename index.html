@@ -23,7 +23,7 @@
 
     --ui-font: var(--heading-font);  /* search box, buttons, menus */
     --muted: #d9d9d9;          /* labels, counts */
-    --menu-text: #000000;
+    --menu-text-color: #000000;
     --rule: #5e5e5e;           /* dividers and borders */
     --accent: var(--link-color);  /* selected filter buttons */
     --accent-ink: #ffffff;
@@ -47,7 +47,7 @@
     padding: 8px 10px; border: 1px solid var(--rule); border-radius: 6px; background: var(--bg);
   }
   .group { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; min-width: 0; max-width: 100%; }
-  .group > .name { color: var(--menu-text); font-size: 13px; margin-right: 2px; }
+  .group > .name { color: var(--muted); font-size: 13px; margin-right: 2px; }
   .chip {
     font: inherit; font-size: 13px; color: var(--text-color);
     background: var(--control-bg); border: 1px solid var(--rule); border-radius: 999px;
@@ -55,7 +55,7 @@
   }
   .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
   select {
-    font: inherit; font-size: 13px; color: var(--text-color);
+    font: inherit; font-size: 13px; color: var(--menu-text-color);
     background: var(--control-bg); border: 1px solid var(--rule); border-radius: 6px; padding: 3px 6px;
     max-width: 100%; min-width: 0;
   }
