@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-25",
  "types": [
   {
    "id": "conference",
@@ -43,7 +43,7 @@
    "year": 2027,
    "title": "When an AI-Only Challenge Concentrates in One or Two Students: Lessons from Embedding a Generative-AI Feature Sprint in a Team Project Course",
    "authors": "M. Ho, C. Orr, and J. Ryoo",
-   "html": "<strong>M. Ho</strong>, C. Orr, and J. Ryoo, “When an AI-Only Challenge Concentrates in One or Two Students: Lessons from Embedding a Generative-AI Feature Sprint in a Team Project Course,” to be presented at the 58th ACM Technical Symposium on Computer Science Education (SIGCSE TS), Sacramento, California, United States, Feb. 17–20, 2027.",
+   "html": "<strong>M. Ho</strong>, C. Orr, and J. Ryoo, <a href=\"https://doi.org/10.1145/3857222.3860211\" target=\"_blank\" rel=\"noopener\">“When an AI-Only Challenge Concentrates in One or Two Students: Lessons from Embedding a Generative-AI Feature Sprint in a Team Project Course,”</a> to be presented at the 58th ACM Technical Symposium on Computer Science Education (SIGCSE TS), Sacramento, California, United States, Feb. 17–20, 2027.",
    "search": "m. ho, c. orr, and j. ryoo when an ai-only challenge concentrates in one or two students: lessons from embedding a generative-ai feature sprint in a team project course to be presented at the 58th acm technical symposium on computer science education (sigcse ts) sacramento, california, united states feb. 17–20, 2027",
    "number": 32,
    "label": "C32"
