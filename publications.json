@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-11-17",
  "types": [
   {
    "id": "conference",
@@ -35,6 +35,19 @@
   }
  ],
  "items": [
+  {
+   "key": "ICIET2027-45",
+   "type": "conference",
+   "status": "accepted",
+   "area": "edu",
+   "year": 2027,
+   "title": "Silent on Code? A Computing Lens on Generative AI Guidance at Canadian Polytechnics and Research Universities",
+   "authors": "M. Ho, M. P.-C. Lin, R. R. Amin, D. Chang, and J. Ryoo",
+   "html": "<strong>M. Ho</strong>, M. P.-C. Lin, R. R. Amin, D. Chang, and J. Ryoo, “Silent on Code? A Computing Lens on Generative AI Guidance at Canadian Polytechnics and Research Universities,” to be presented at 2027 the 15th International Conference on Information and Education Technology (ICIET), Osaka, Japan, Apr. 9–12, 2027.",
+   "search": "m. ho, m. p.-c. lin, r. r. amin, d. chang, and j. ryoo silent on code? a computing lens on generative ai guidance at canadian polytechnics and research universities to be presented at 2027 the 15th international conference on information and education technology (iciet) osaka, japan apr. 9–12, 2027",
+   "number": 33,
+   "label": "C33"
+  },
   {
    "key": "SIGCSE2027",
    "type": "conference",
