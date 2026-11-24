@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-24",
  "types": [
   {
    "id": "conference",
@@ -35,6 +35,19 @@
   }
  ],
  "items": [
+  {
+   "key": "ECE2027",
+   "type": "conference",
+   "status": "accepted",
+   "area": "edu",
+   "year": 2027,
+   "title": "Task Design in Research on Teacher Decisions About AI Feedback",
+   "authors": "M. P.-C. Lin, J.-Y. Huang, G. Tembrevilla, G. M. Bowen, M. Ho, and J. Ryoo",
+   "html": "M. P.-C. Lin, J.-Y. Huang, G. Tembrevilla, G. M. Bowen, <strong>M. Ho</strong>, and J. Ryoo, “Task Design in Research on Teacher Decisions About AI Feedback,” to be presented at the 15th European Conference on Education (ECE), London, United Kingdom, Jul. 15–19, 2027.",
+   "search": "m. p.-c. lin, j.-y. huang, g. tembrevilla, g. m. bowen, m. ho, and j. ryoo task design in research on teacher decisions about ai feedback to be presented at the 15th european conference on education (ece) london, united kingdom jul. 15–19, 2027",
+   "number": 34,
+   "label": "C34"
+  },
   {
    "key": "ICIET2027-45",
    "type": "conference",
